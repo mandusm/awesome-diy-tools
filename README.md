@@ -17,10 +17,33 @@ This is a list of awesome DIY tools for every day hobbies, work around the house
 - Multimeter
 - Outlet Tester
 - Inductive Current Sniffer
+- JIS Screw drivers & JIS impact bits
+- Lever nuts (Wago)
+- 10-18AWG wire stripper
 
 ### Wooden Construction ###
 - Stud finder
+- Staple gun
 
+### Consumable ###
+- Loctite Threadlocker 242 (blue)
+- Loctite Threadlocker 262 (red)
+- WD40
+- Cable ties
+- Half-face respirator (3M)
+- P100 Respirator filters (3M)
+- Head lamp
 
+### Mechanical ###
+- T-handle hex key set (Metric and SAE)
+- 6 point 1/4", 3/8", 1/2" drive socket set (Metric and SAE)
+- 1/4", 3/8, 12" wrenches
+- 13-108NM 3/8-Inch Drive Torque Wrench
+- 12V battery saver
+- Pin Wrench (Mandatory if you are a boat owner)
+
+### First Aid ###
+- Quickclot Trauma kit
+- Tourniquets (if trained to use)
 
 
