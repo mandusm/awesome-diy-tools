@@ -29,6 +29,8 @@ This is a list of awesome DIY tools for every day hobbies, work around the house
 - Loctite Threadlocker 242 (blue)
 - Loctite Threadlocker 262 (red)
 - WD40
+- Automotive grease
+- Automotive degreaser
 - Cable ties
 - Half-face respirator (3M)
 - P100 Respirator filters (3M)
