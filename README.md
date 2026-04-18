@@ -13,6 +13,7 @@ This is a list of awesome DIY tools for every day hobbies, work around the house
 - Belt sander
 - Jig saw
 
+- [Plywood Cut Optimizer](https://tools.modologystudios.com) - Free browser tool: enter your cut list, get an optimized sheet layout with waste percentage. No signup, no download. Works for 4×8, 4×10, and custom sheet sizes.
 ### Electrical Work ###
 - Multimeter
 - Outlet Tester
