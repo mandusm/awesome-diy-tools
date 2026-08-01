@@ -25,6 +25,9 @@ This is a list of awesome DIY tools for every day hobbies, work around the house
 - Stud finder
 - Staple gun
 
+### Project Planning & Calculators ###
+- [Concrete Estimator Hub](https://concreteestimatorhub.com/) - Free concrete calculators for slabs, bag counts, footings, post holes, ready-mix comparisons, and project cost checks.
+
 ### Consumable ###
 - Loctite Threadlocker 242 (blue)
 - Loctite Threadlocker 262 (red)
