@@ -47,5 +47,6 @@ This is a list of awesome DIY tools for every day hobbies, work around the house
 ### First Aid ###
 - Quickclot Trauma kit
 - Tourniquets (if trained to use)
+- [Sticker Printer Hub](https://stickerprinterhub.com/) - Independent sticker printer comparisons with sourced supply costs, a cost-per-sheet calculator and a free 4x7 sticker sheet layout tool.
 
 
